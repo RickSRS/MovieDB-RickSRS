@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.richardsoares.moviedb_rick.app-mergeDebugResources-34:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Richard\\.gradle\\caches\\transforms-3\\88b86bb24db2399da36e9da8b688c640\\transformed\\appcompat-1.5.1\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

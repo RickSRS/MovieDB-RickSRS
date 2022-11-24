@@ -1,0 +1,166 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.richardsoares.moviedb_rick"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="29"
+8-->C:\Users\Richard\Desktop\MovieDB-RickSRS\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\Users\Richard\Desktop\MovieDB-RickSRS\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\Richard\Desktop\MovieDB-RickSRS\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\Richard\Desktop\MovieDB-RickSRS\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->[io.realm:realm-android-library-object-server:5.1.0] C:\Users\Richard\.gradle\caches\transforms-3\e3a6ae3e1c341598946b250e2a7ae26c\transformed\jetified-realm-android-library-object-server-5.1.0\AndroidManifest.xml:10:5-79
+12-->[io.realm:realm-android-library-object-server:5.1.0] C:\Users\Richard\.gradle\caches\transforms-3\e3a6ae3e1c341598946b250e2a7ae26c\transformed\jetified-realm-android-library-object-server-5.1.0\AndroidManifest.xml:10:22-76
+13    <uses-permission android:name="android.permission.REORDER_TASKS" />
+13-->[androidx.test:core:1.4.0] C:\Users\Richard\.gradle\caches\transforms-3\aa37850131e1c01d18002ddcc4bd3401\transformed\jetified-core-1.4.0\AndroidManifest.xml:24:5-72
+13-->[androidx.test:core:1.4.0] C:\Users\Richard\.gradle\caches\transforms-3\aa37850131e1c01d18002ddcc4bd3401\transformed\jetified-core-1.4.0\AndroidManifest.xml:24:22-69
+14
+15    <application
+15-->C:\Users\Richard\Desktop\MovieDB-RickSRS\app\src\main\AndroidManifest.xml:7:5-44:19
+16        android:allowBackup="true"
+16-->C:\Users\Richard\Desktop\MovieDB-RickSRS\app\src\main\AndroidManifest.xml:8:9-35
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.8.0] C:\Users\Richard\.gradle\caches\transforms-3\7e40d5837690dd751f93bbac18929480\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+18        android:debuggable="true"
+19        android:extractNativeLibs="false"
+20        android:icon="@mipmap/ic_launcher"
+20-->C:\Users\Richard\Desktop\MovieDB-RickSRS\app\src\main\AndroidManifest.xml:9:9-43
+21        android:label="@string/app_name"
+21-->C:\Users\Richard\Desktop\MovieDB-RickSRS\app\src\main\AndroidManifest.xml:10:9-41
+22        android:roundIcon="@mipmap/ic_launcher_round"
+22-->C:\Users\Richard\Desktop\MovieDB-RickSRS\app\src\main\AndroidManifest.xml:11:9-54
+23        android:supportsRtl="true"
+23-->C:\Users\Richard\Desktop\MovieDB-RickSRS\app\src\main\AndroidManifest.xml:12:9-35
+24        android:testOnly="true"
+25        android:theme="@style/AppTheme"
+25-->C:\Users\Richard\Desktop\MovieDB-RickSRS\app\src\main\AndroidManifest.xml:13:9-40
+26        android:usesCleartextTraffic="true" >
+26-->C:\Users\Richard\Desktop\MovieDB-RickSRS\app\src\main\AndroidManifest.xml:14:9-44
+27        <activity
+27-->C:\Users\Richard\Desktop\MovieDB-RickSRS\app\src\main\AndroidManifest.xml:15:9-29:20
+28            android:name="com.richardsoares.moviedb_rick.ui.activities.Splash"
+28-->C:\Users\Richard\Desktop\MovieDB-RickSRS\app\src\main\AndroidManifest.xml:16:13-49
+29            android:exported="true"
+29-->C:\Users\Richard\Desktop\MovieDB-RickSRS\app\src\main\AndroidManifest.xml:20:13-36
+30            android:label="@string/app_name"
+30-->C:\Users\Richard\Desktop\MovieDB-RickSRS\app\src\main\AndroidManifest.xml:17:13-45
+31            android:screenOrientation="portrait"
+31-->C:\Users\Richard\Desktop\MovieDB-RickSRS\app\src\main\AndroidManifest.xml:18:13-49
+32            android:theme="@android:style/Theme.Black.NoTitleBar" >
+32-->C:\Users\Richard\Desktop\MovieDB-RickSRS\app\src\main\AndroidManifest.xml:19:13-66
+33            <intent-filter>
+33-->C:\Users\Richard\Desktop\MovieDB-RickSRS\app\src\main\AndroidManifest.xml:21:13-25:29
+34                <action android:name="android.intent.action.MAIN" />
+34-->C:\Users\Richard\Desktop\MovieDB-RickSRS\app\src\main\AndroidManifest.xml:22:17-69
+34-->C:\Users\Richard\Desktop\MovieDB-RickSRS\app\src\main\AndroidManifest.xml:22:25-66
+35
+36                <category android:name="android.intent.category.LAUNCHER" />
+36-->C:\Users\Richard\Desktop\MovieDB-RickSRS\app\src\main\AndroidManifest.xml:24:17-77
+36-->C:\Users\Richard\Desktop\MovieDB-RickSRS\app\src\main\AndroidManifest.xml:24:27-74
+37            </intent-filter>
+38
+39            <meta-data
+39-->C:\Users\Richard\Desktop\MovieDB-RickSRS\app\src\main\AndroidManifest.xml:26:13-28:36
+40                android:name="android.app.lib_name"
+40-->C:\Users\Richard\Desktop\MovieDB-RickSRS\app\src\main\AndroidManifest.xml:27:17-52
+41                android:value="" />
+41-->C:\Users\Richard\Desktop\MovieDB-RickSRS\app\src\main\AndroidManifest.xml:28:17-33
+42        </activity>
+43        <activity android:name="com.richardsoares.moviedb_rick.ui.activities.DetailMovieActivity" />
+43-->C:\Users\Richard\Desktop\MovieDB-RickSRS\app\src\main\AndroidManifest.xml:30:9-71
+43-->C:\Users\Richard\Desktop\MovieDB-RickSRS\app\src\main\AndroidManifest.xml:30:19-68
+44        <activity
+44-->C:\Users\Richard\Desktop\MovieDB-RickSRS\app\src\main\AndroidManifest.xml:31:9-43:20
+45            android:name="com.richardsoares.moviedb_rick.ui.activities.MainActivity"
+45-->C:\Users\Richard\Desktop\MovieDB-RickSRS\app\src\main\AndroidManifest.xml:32:13-55
+46            android:configChanges="keyboardHidden|orientation|screenSize"
+46-->C:\Users\Richard\Desktop\MovieDB-RickSRS\app\src\main\AndroidManifest.xml:33:13-74
+47            android:exported="true"
+47-->C:\Users\Richard\Desktop\MovieDB-RickSRS\app\src\main\AndroidManifest.xml:34:13-36
+48            android:windowSoftInputMode="adjustPan" >
+48-->C:\Users\Richard\Desktop\MovieDB-RickSRS\app\src\main\AndroidManifest.xml:35:13-52
+49
+50            <!--
+51            <intent-filter>
+52                <action android:name="android.intent.action.MAIN" />
+53
+54                <category android:name="android.intent.category.LAUNCHER" />
+55            </intent-filter>
+56            -->
+57        </activity>
+58
+59        <provider
+59-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Richard\.gradle\caches\transforms-3\78c790c76459d7020d02335173e56f8c\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+60            android:name="androidx.startup.InitializationProvider"
+60-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Richard\.gradle\caches\transforms-3\78c790c76459d7020d02335173e56f8c\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+61            android:authorities="com.richardsoares.moviedb_rick.androidx-startup"
+61-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Richard\.gradle\caches\transforms-3\78c790c76459d7020d02335173e56f8c\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+62            android:exported="false" >
+62-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Richard\.gradle\caches\transforms-3\78c790c76459d7020d02335173e56f8c\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+63            <meta-data
+63-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Richard\.gradle\caches\transforms-3\78c790c76459d7020d02335173e56f8c\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+64                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+64-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Richard\.gradle\caches\transforms-3\78c790c76459d7020d02335173e56f8c\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+65                android:value="androidx.startup" />
+65-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Richard\.gradle\caches\transforms-3\78c790c76459d7020d02335173e56f8c\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+66            <meta-data
+66-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Richard\.gradle\caches\transforms-3\4f4d21e376a71b13012b22acba232848\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+67                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+67-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Richard\.gradle\caches\transforms-3\4f4d21e376a71b13012b22acba232848\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+68                android:value="androidx.startup" />
+68-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Richard\.gradle\caches\transforms-3\4f4d21e376a71b13012b22acba232848\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+69        </provider>
+70
+71        <activity
+71-->[androidx.test:core:1.4.0] C:\Users\Richard\.gradle\caches\transforms-3\aa37850131e1c01d18002ddcc4bd3401\transformed\jetified-core-1.4.0\AndroidManifest.xml:27:9-34:20
+72            android:name="androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity"
+72-->[androidx.test:core:1.4.0] C:\Users\Richard\.gradle\caches\transforms-3\aa37850131e1c01d18002ddcc4bd3401\transformed\jetified-core-1.4.0\AndroidManifest.xml:28:13-99
+73            android:exported="true"
+73-->[androidx.test:core:1.4.0] C:\Users\Richard\.gradle\caches\transforms-3\aa37850131e1c01d18002ddcc4bd3401\transformed\jetified-core-1.4.0\AndroidManifest.xml:29:13-36
+74            android:theme="@android:style/Theme" >
+74-->[androidx.test:core:1.4.0] C:\Users\Richard\.gradle\caches\transforms-3\aa37850131e1c01d18002ddcc4bd3401\transformed\jetified-core-1.4.0\AndroidManifest.xml:30:13-49
+75            <intent-filter>
+75-->[androidx.test:core:1.4.0] C:\Users\Richard\.gradle\caches\transforms-3\aa37850131e1c01d18002ddcc4bd3401\transformed\jetified-core-1.4.0\AndroidManifest.xml:31:13-33:29
+76                <action android:name="android.intent.action.MAIN" />
+76-->C:\Users\Richard\Desktop\MovieDB-RickSRS\app\src\main\AndroidManifest.xml:22:17-69
+76-->C:\Users\Richard\Desktop\MovieDB-RickSRS\app\src\main\AndroidManifest.xml:22:25-66
+77            </intent-filter>
+78        </activity>
+79        <activity
+79-->[androidx.test:core:1.4.0] C:\Users\Richard\.gradle\caches\transforms-3\aa37850131e1c01d18002ddcc4bd3401\transformed\jetified-core-1.4.0\AndroidManifest.xml:35:9-42:20
+80            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity"
+80-->[androidx.test:core:1.4.0] C:\Users\Richard\.gradle\caches\transforms-3\aa37850131e1c01d18002ddcc4bd3401\transformed\jetified-core-1.4.0\AndroidManifest.xml:36:13-95
+81            android:exported="true"
+81-->[androidx.test:core:1.4.0] C:\Users\Richard\.gradle\caches\transforms-3\aa37850131e1c01d18002ddcc4bd3401\transformed\jetified-core-1.4.0\AndroidManifest.xml:37:13-36
+82            android:theme="@android:style/Theme" >
+82-->[androidx.test:core:1.4.0] C:\Users\Richard\.gradle\caches\transforms-3\aa37850131e1c01d18002ddcc4bd3401\transformed\jetified-core-1.4.0\AndroidManifest.xml:38:13-49
+83            <intent-filter>
+83-->[androidx.test:core:1.4.0] C:\Users\Richard\.gradle\caches\transforms-3\aa37850131e1c01d18002ddcc4bd3401\transformed\jetified-core-1.4.0\AndroidManifest.xml:31:13-33:29
+84                <action android:name="android.intent.action.MAIN" />
+84-->C:\Users\Richard\Desktop\MovieDB-RickSRS\app\src\main\AndroidManifest.xml:22:17-69
+84-->C:\Users\Richard\Desktop\MovieDB-RickSRS\app\src\main\AndroidManifest.xml:22:25-66
+85            </intent-filter>
+86        </activity>
+87        <activity
+87-->[androidx.test:core:1.4.0] C:\Users\Richard\.gradle\caches\transforms-3\aa37850131e1c01d18002ddcc4bd3401\transformed\jetified-core-1.4.0\AndroidManifest.xml:43:9-50:20
+88            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity"
+88-->[androidx.test:core:1.4.0] C:\Users\Richard\.gradle\caches\transforms-3\aa37850131e1c01d18002ddcc4bd3401\transformed\jetified-core-1.4.0\AndroidManifest.xml:44:13-103
+89            android:exported="true"
+89-->[androidx.test:core:1.4.0] C:\Users\Richard\.gradle\caches\transforms-3\aa37850131e1c01d18002ddcc4bd3401\transformed\jetified-core-1.4.0\AndroidManifest.xml:45:13-36
+90            android:theme="@android:style/Theme.Dialog" >
+90-->[androidx.test:core:1.4.0] C:\Users\Richard\.gradle\caches\transforms-3\aa37850131e1c01d18002ddcc4bd3401\transformed\jetified-core-1.4.0\AndroidManifest.xml:46:13-56
+91            <intent-filter>
+91-->[androidx.test:core:1.4.0] C:\Users\Richard\.gradle\caches\transforms-3\aa37850131e1c01d18002ddcc4bd3401\transformed\jetified-core-1.4.0\AndroidManifest.xml:31:13-33:29
+92                <action android:name="android.intent.action.MAIN" />
+92-->C:\Users\Richard\Desktop\MovieDB-RickSRS\app\src\main\AndroidManifest.xml:22:17-69
+92-->C:\Users\Richard\Desktop\MovieDB-RickSRS\app\src\main\AndroidManifest.xml:22:25-66
+93            </intent-filter>
+94        </activity>
+95    </application>
+96
+97</manifest>

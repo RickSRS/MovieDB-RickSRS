@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "com.richardsoares.moviedb_rick.app-merged_res-36:/drawable-xxhdpi_ic_search.png.flat",
+        "source": "com.richardsoares.moviedb_rick.app-main-38:/drawable-xxhdpi/ic_search.png"
+    },
+    {
+        "merged": "com.richardsoares.moviedb_rick.app-merged_res-36:/drawable_tab_filme_color.xml.flat",
+        "source": "com.richardsoares.moviedb_rick.app-main-38:/drawable/tab_filme_color.xml"
+    },
+    {
+        "merged": "com.richardsoares.moviedb_rick.app-merged_res-36:/drawable-mdpi_ic_search.png.flat",
+        "source": "com.richardsoares.moviedb_rick.app-main-38:/drawable-mdpi/ic_search.png"
+    },
+    {
+        "merged": "com.richardsoares.moviedb_rick.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.richardsoares.moviedb_rick.app-main-38:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.richardsoares.moviedb_rick.app-merged_res-36:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.richardsoares.moviedb_rick.app-main-38:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.richardsoares.moviedb_rick.app-merged_res-36:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.richardsoares.moviedb_rick.app-main-38:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.richardsoares.moviedb_rick.app-merged_res-36:/drawable-hdpi_ic_search.png.flat",
+        "source": "com.richardsoares.moviedb_rick.app-main-38:/drawable-hdpi/ic_search.png"
+    },
+    {
+        "merged": "com.richardsoares.moviedb_rick.app-merged_res-36:/layout_activity_splash.xml.flat",
+        "source": "com.richardsoares.moviedb_rick.app-main-38:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.richardsoares.moviedb_rick.app-merged_res-36:/drawable_gradient_background.xml.flat",
+        "source": "com.richardsoares.moviedb_rick.app-main-38:/drawable/gradient_background.xml"
+    },
+    {
+        "merged": "com.richardsoares.moviedb_rick.app-merged_res-36:/drawable_ic_favorito.xml.flat",
+        "source": "com.richardsoares.moviedb_rick.app-main-38:/drawable/ic_favorito.xml"
+    },
+    {
+        "merged": "com.richardsoares.moviedb_rick.app-merged_res-36:/drawable_ic_filme.xml.flat",
+        "source": "com.richardsoares.moviedb_rick.app-main-38:/drawable/ic_filme.xml"
+    },
+    {
+        "merged": "com.richardsoares.moviedb_rick.app-merged_res-36:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.richardsoares.moviedb_rick.app-main-38:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.richardsoares.moviedb_rick.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.richardsoares.moviedb_rick.app-main-38:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.richardsoares.moviedb_rick.app-merged_res-36:/drawable_design_header.xml.flat",
+        "source": "com.richardsoares.moviedb_rick.app-main-38:/drawable/design_header.xml"
+    },
+    {
+        "merged": "com.richardsoares.moviedb_rick.app-merged_res-36:/drawable_bg_overlay.xml.flat",
+        "source": "com.richardsoares.moviedb_rick.app-main-38:/drawable/bg_overlay.xml"
+    },
+    {
+        "merged": "com.richardsoares.moviedb_rick.app-merged_res-36:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.richardsoares.moviedb_rick.app-main-38:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.richardsoares.moviedb_rick.app-merged_res-36:/drawable_ic_image.xml.flat",
+        "source": "com.richardsoares.moviedb_rick.app-main-38:/drawable/ic_image.xml"
+    },
+    {
+        "merged": "com.richardsoares.moviedb_rick.app-merged_res-36:/drawable-xhdpi_ic_search.png.flat",
+        "source": "com.richardsoares.moviedb_rick.app-main-38:/drawable-xhdpi/ic_search.png"
+    },
+    {
+        "merged": "com.richardsoares.moviedb_rick.app-merged_res-36:/layout_lista_item_filme.xml.flat",
+        "source": "com.richardsoares.moviedb_rick.app-main-38:/layout/lista_item_filme.xml"
+    },
+    {
+        "merged": "com.richardsoares.moviedb_rick.app-merged_res-36:/drawable_bg_rounded.xml.flat",
+        "source": "com.richardsoares.moviedb_rick.app-main-38:/drawable/bg_rounded.xml"
+    },
+    {
+        "merged": "com.richardsoares.moviedb_rick.app-merged_res-36:/layout_lista_item_trailer.xml.flat",
+        "source": "com.richardsoares.moviedb_rick.app-main-38:/layout/lista_item_trailer.xml"
+    },
+    {
+        "merged": "com.richardsoares.moviedb_rick.app-merged_res-36:/drawable_dev_logo.png.flat",
+        "source": "com.richardsoares.moviedb_rick.app-main-38:/drawable/dev_logo.png"
+    },
+    {
+        "merged": "com.richardsoares.moviedb_rick.app-merged_res-36:/layout_activity_detalhe.xml.flat",
+        "source": "com.richardsoares.moviedb_rick.app-main-38:/layout/activity_detalhe.xml"
+    },
+    {
+        "merged": "com.richardsoares.moviedb_rick.app-merged_res-36:/drawable_ic_borda_favorito.xml.flat",
+        "source": "com.richardsoares.moviedb_rick.app-main-38:/drawable/ic_borda_favorito.xml"
+    },
+    {
+        "merged": "com.richardsoares.moviedb_rick.app-merged_res-36:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.richardsoares.moviedb_rick.app-main-38:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.richardsoares.moviedb_rick.app-merged_res-36:/layout_fragment_favorito.xml.flat",
+        "source": "com.richardsoares.moviedb_rick.app-main-38:/layout/fragment_favorito.xml"
+    },
+    {
+        "merged": "com.richardsoares.moviedb_rick.app-merged_res-36:/layout_fragment_filme_favorito.xml.flat",
+        "source": "com.richardsoares.moviedb_rick.app-main-38:/layout/fragment_filme_favorito.xml"
+    },
+    {
+        "merged": "com.richardsoares.moviedb_rick.app-merged_res-36:/layout_activity_main.xml.flat",
+        "source": "com.richardsoares.moviedb_rick.app-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.richardsoares.moviedb_rick.app-merged_res-36:/layout_fragment_filme.xml.flat",
+        "source": "com.richardsoares.moviedb_rick.app-main-38:/layout/fragment_filme.xml"
+    },
+    {
+        "merged": "com.richardsoares.moviedb_rick.app-merged_res-36:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.richardsoares.moviedb_rick.app-main-38:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.richardsoares.moviedb_rick.app-merged_res-36:/drawable_ic_share.xml.flat",
+        "source": "com.richardsoares.moviedb_rick.app-main-38:/drawable/ic_share.xml"
+    },
+    {
+        "merged": "com.richardsoares.moviedb_rick.app-merged_res-36:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.richardsoares.moviedb_rick.app-main-38:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.richardsoares.moviedb_rick.app-merged_res-36:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.richardsoares.moviedb_rick.app-main-38:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.richardsoares.moviedb_rick.app-merged_res-36:/drawable_tab_fav_color.xml.flat",
+        "source": "com.richardsoares.moviedb_rick.app-main-38:/drawable/tab_fav_color.xml"
+    },
+    {
+        "merged": "com.richardsoares.moviedb_rick.app-merged_res-36:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.richardsoares.moviedb_rick.app-main-38:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.richardsoares.moviedb_rick.app-merged_res-36:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.richardsoares.moviedb_rick.app-main-38:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.richardsoares.moviedb_rick.app-merged_res-36:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.richardsoares.moviedb_rick.app-main-38:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.richardsoares.moviedb_rick.app-merged_res-36:/layout_lista_item_filme_horizontal.xml.flat",
+        "source": "com.richardsoares.moviedb_rick.app-main-38:/layout/lista_item_filme_horizontal.xml"
+    },
+    {
+        "merged": "com.richardsoares.moviedb_rick.app-merged_res-36:/drawable_bg_pesquisa.xml.flat",
+        "source": "com.richardsoares.moviedb_rick.app-main-38:/drawable/bg_pesquisa.xml"
+    },
+    {
+        "merged": "com.richardsoares.moviedb_rick.app-merged_res-36:/drawable-anydpi_ic_search.xml.flat",
+        "source": "com.richardsoares.moviedb_rick.app-main-38:/drawable-anydpi/ic_search.xml"
+    },
+    {
+        "merged": "com.richardsoares.moviedb_rick.app-merged_res-36:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.richardsoares.moviedb_rick.app-main-38:/mipmap-hdpi/ic_launcher_round.png"
+    }
+]

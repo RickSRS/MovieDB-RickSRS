@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Richard/Desktop/MovieDB-Rick/MovieDB-Rick/app/src/main/res/layout/activity_detail.xml" value="0.33" />
+        <entry key="..\:/Users/Richard/Desktop/MovieDB-Rick/MovieDB-Rick/app/src/main/res/layout/activity_main.xml" value="0.30925925925925923" />
+        <entry key="..\:/Users/Richard/Desktop/MovieDB-Rick/MovieDB-Rick/app/src/main/res/layout/activity_setting.xml" value="0.30925925925925923" />
+        <entry key="..\:/Users/Richard/Desktop/MovieDB-Rick/MovieDB-Rick/app/src/main/res/layout/fragment_favorite.xml" value="0.30925925925925923" />
+        <entry key="..\:/Users/Richard/Desktop/MovieDB-Rick/MovieDB-Rick/app/src/main/res/layout/fragment_favorite_film.xml" value="0.30925925925925923" />
+        <entry key="..\:/Users/Richard/Desktop/MovieDB-Rick/MovieDB-Rick/app/src/main/res/layout/fragment_film.xml" value="0.30925925925925923" />
+        <entry key="..\:/Users/Richard/Desktop/MovieDB-Rick/MovieDB-Rick/app/src/main/res/layout/list_item_film.xml" value="0.30925925925925923" />
+        <entry key="..\:/Users/Richard/Desktop/MovieDB-Rick/MovieDB-Rick/app/src/main/res/layout/list_item_film_horizontal.xml" value="0.30925925925925923" />
+        <entry key="..\:/Users/Richard/Desktop/MovieDB-Rick/MovieDB-Rick/app/src/main/res/layout/list_item_trailer.xml" value="0.30925925925925923" />
+        <entry key="..\:/Users/Richard/Desktop/MovieDB-Rick/MovieDB-Rick/app/src/main/res/layout/toolbar_main.xml" value="0.30925925925925923" />
+        <entry key="..\:/Users/Richard/Desktop/MovieDB-RickSRS/app/src/main/res/layout/fragment_filme.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Richard/Desktop/TheMovieDB-master/Movie Catalogue/app/src/main/res/drawable/bg_search.xml" value="0.1025" />
+        <entry key="..\:/Users/Richard/Desktop/TheMovieDB-master/Movie Catalogue/app/src/main/res/drawable/tab_fav_color.xml" value="0.1025" />
+        <entry key="..\:/Users/Richard/Desktop/TheMovieDB-master/Movie Catalogue/app/src/main/res/drawable/tab_movie_color.xml" value="0.1025" />
+        <entry key="..\:/Users/Richard/Desktop/TheMovieDB-master/Movie Catalogue/app/src/main/res/drawable/tab_tv_color.xml" value="0.1025" />
+        <entry key="..\:/Users/Richard/Desktop/TheMovieDB-master/Movie Catalogue/app/src/main/res/layout/activity_detail.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Richard/Desktop/TheMovieDB-master/Movie Catalogue/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Richard/Desktop/TheMovieDB-master/Movie Catalogue/app/src/main/res/layout/activity_setting.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Richard/Desktop/TheMovieDB-master/Movie Catalogue/app/src/main/res/layout/fragment_favorite.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Richard/Desktop/TheMovieDB-master/Movie Catalogue/app/src/main/res/layout/fragment_favorite_film.xml" value="0.33" />
+        <entry key="..\:/Users/Richard/Desktop/TheMovieDB-master/Movie Catalogue/app/src/main/res/layout/fragment_film.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Richard/Desktop/TheMovieDB-master/Movie Catalogue/app/src/main/res/layout/list_item_film.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Richard/Desktop/TheMovieDB-master/Movie Catalogue/app/src/main/res/layout/list_item_film_horizontal.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Richard/Desktop/TheMovieDB-master/Movie Catalogue/app/src/main/res/layout/list_item_trailer.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Richard/Desktop/TheMovieDB-master/Movie Catalogue/app/src/main/res/layout/toolbar_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Workspaces/Android Studio/Backup 2 MovieDB-Rick/app/src/main/res/layout/activity_detail.xml" value="0.21388888888888888" />
+        <entry key="..\:/Workspaces/Android Studio/Backup 2 MovieDB-Rick/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Workspaces/Android Studio/MovieDB-Rick/app/src/main/res/layout/activity_detail.xml" value="0.21388888888888888" />
+        <entry key="..\:/Workspaces/Android Studio/MovieDB-Rick/app/src/main/res/layout/activity_detalhe.xml" value="0.25925925925925924" />
+        <entry key="..\:/Workspaces/Android Studio/MovieDB-Rick/app/src/main/res/layout/fragment_favorite_film.xml" value="0.36666666666666664" />
+        <entry key="..\:/Workspaces/Android Studio/MovieDB-Rick/app/src/main/res/layout/fragment_filme.xml" value="0.17777777777777778" />
+        <entry key="..\:/Workspaces/Android Studio/MovieDB-Rick/app/src/main/res/layout/fragment_filme_favorito.xml" value="0.17777777777777778" />
+        <entry key="..\:/Workspaces/Android Studio/MovieDB-Rick/app/src/main/res/layout/list_item_film.xml" value="0.25925925925925924" />
+        <entry key="..\:/Workspaces/Android Studio/MovieDB-Rick/app/src/main/res/layout/lista_item_filme.xml" value="0.17777777777777778" />
+        <entry key="..\:/Workspaces/Android Studio/MovieDB-Rick2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1595" />
+        <entry key="..\:/Workspaces/Android Studio/MovieDB-Rick2/app/src/main/res/drawable/bg_overlay.xml" value="0.1595" />
+        <entry key="..\:/Workspaces/Android Studio/MovieDB-Rick2/app/src/main/res/drawable/bg_rounded.xml" value="0.1595" />
+        <entry key="..\:/Workspaces/Android Studio/MovieDB-Rick2/app/src/main/res/drawable/bg_search.xml" value="0.1595" />
+        <entry key="..\:/Workspaces/Android Studio/MovieDB-Rick2/app/src/main/res/drawable/design_header.xml" value="0.1595" />
+        <entry key="..\:/Workspaces/Android Studio/MovieDB-Rick2/app/src/main/res/drawable/ic_favorite.xml" value="0.1595" />
+        <entry key="..\:/Workspaces/Android Studio/MovieDB-Rick2/app/src/main/res/drawable/ic_favorite_border.xml" value="0.1595" />
+        <entry key="..\:/Workspaces/Android Studio/MovieDB-Rick2/app/src/main/res/drawable/ic_image.xml" value="0.1595" />
+        <entry key="..\:/Workspaces/Android Studio/MovieDB-Rick2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1595" />
+        <entry key="..\:/Workspaces/Android Studio/MovieDB-Rick2/app/src/main/res/drawable/ic_live_tv.xml" value="0.1595" />
+        <entry key="..\:/Workspaces/Android Studio/MovieDB-Rick2/app/src/main/res/drawable/ic_movie.xml" value="0.1595" />
+        <entry key="..\:/Workspaces/Android Studio/MovieDB-Rick2/app/src/main/res/drawable/ic_share.xml" value="0.1595" />
+        <entry key="..\:/Workspaces/Android Studio/MovieDB-Rick2/app/src/main/res/drawable/tab_fav_color.xml" value="0.1595" />
+        <entry key="..\:/Workspaces/Android Studio/MovieDB-Rick2/app/src/main/res/drawable/tab_movie_color.xml" value="0.1595" />
+        <entry key="..\:/Workspaces/Android Studio/MovieDB-Rick2/app/src/main/res/drawable/tab_tv_color.xml" value="0.1595" />
+        <entry key="..\:/Workspaces/Android Studio/MovieDB-Rick2/app/src/main/res/layout/activity_detail.xml" value="0.33" />
+        <entry key="..\:/Workspaces/Android Studio/MovieDB-Rick2/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Workspaces/Android Studio/MovieDB-Rick2/app/src/main/res/layout/fragment_favorite.xml" value="0.19907407407407407" />
+        <entry key="..\:/Workspaces/Android Studio/MovieDB-Rick2/app/src/main/res/layout/fragment_favorite_film.xml" value="0.19907407407407407" />
+        <entry key="..\:/Workspaces/Android Studio/MovieDB-Rick2/app/src/main/res/layout/fragment_film.xml" value="0.19907407407407407" />
+        <entry key="..\:/Workspaces/Android Studio/MovieDB-Rick2/app/src/main/res/layout/list_item_film.xml" value="0.36666666666666664" />
+        <entry key="..\:/Workspaces/Android Studio/MovieDB-Rick2/app/src/main/res/layout/list_item_film_horizontal.xml" value="0.36666666666666664" />
+        <entry key="..\:/Workspaces/Android Studio/MovieDB-Rick2/app/src/main/res/layout/list_item_trailer.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

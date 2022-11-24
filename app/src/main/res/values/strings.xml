@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MovieDB-Rick</string>
+    <string name="pesquisar_filme">Pesquisar</string>
+    <string name="add_filme_favorito">&#160;Adicionado como favorito</string>
+    <string name="remover_filme_favorito">&#160;Removido dos favoritos</string>
+    <string name="fabShare">Compartilhar via:</string>
+    <string name="erro_exibir_filme">Falha ao exibir filme!</string>
+    <string name="erro_conexao">Falha na conexão!</string>
+    <string name="url_padrao_youtube">https://www.youtube.com/watch?v=</string>
+    <string name="title_activity_splash">Splash</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
